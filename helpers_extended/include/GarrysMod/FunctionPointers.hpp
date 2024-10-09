@@ -1,7 +1,8 @@
 #pragma once
 
 #include <Platform.hpp>
-#include <string>
+#include <string> // Assurez-vous que cette ligne est présente
+
 
 
 #if defined SYSTEM_WINDOWS
