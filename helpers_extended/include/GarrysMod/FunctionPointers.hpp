@@ -1,6 +1,8 @@
 #pragma once
 
 #include <Platform.hpp>
+#include <string>
+
 
 #if defined SYSTEM_WINDOWS
 
